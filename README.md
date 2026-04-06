@@ -1,6 +1,6 @@
 # Awesome Persona Skills
 
-> 同事.skill、老板.skill、前任.skill、自己.skill、女娲.skill……  
+> 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  
 > **万物皆可 skill**
 
 与其等着被别人蒸，不如先蒸自己。  
