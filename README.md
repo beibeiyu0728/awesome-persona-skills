@@ -14,12 +14,14 @@
 |------|------|------|
 | 同事.skill |将冰冷的离别化为温暖的 Skill |[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) |
 | 老板.skill |把老板的聊天记录、会议纪要、批注和项目材料蒸馏成 Skill |[vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) |
+| 暗恋对象.skill |我会为了你一万次回到那个心动的瞬间 |[xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) |
+| 初恋.skill |后来这么多年，我又迎过了无数盛夏|[z969081067-commits/first-love-skill](https://github.com/z969081067-commits/first-love-skill) |
 | 前任.skill |我会为了你一万次回到那个夏天|[therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) |
+| 现任.skill |既然决定在一起，就让我们把这个夏天变成永远|[NatalieCao323/partner-skill](https://github.com/NatalieCao323/partner-skill) |
 | 自己.skill |与其蒸馏别人，不如蒸馏自己|[notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) |
 | 女娲.skill |女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工 |[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
 | 反蒸馏.skill |公司让你写 Skill？跑一遍，交差用，核心知识留给自己。|[leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
 | 赛博算命.skill |通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析。|[jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) |
-| 暗恋对象.skill |我会为了你一万次回到那个心动的瞬间 |[xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) |
 | 父母.skill |每一次对话，都是穿越时空的陪伴 |[xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
 | 导师.skill |把导师蒸馏成随时可问的 AI Skill |[ybq22/supervisor](https://github.com/ybq22/supervisor) |
 | 师兄.skill |把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill |[zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
