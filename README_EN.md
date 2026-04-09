@@ -21,6 +21,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Supervisor.skill | Distill your supervisor into an AI Skill you can ask anytime | [ybq22/supervisor](https://github.com/ybq22/supervisor) |
 | Professor.skill | If the teacher doesn't highlight key points, then create a teacher who does | [CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
 | Senpai.skill | Distill your graduated senior into an AI Skill that continues lab meetings, wakes you up, and puts out fires | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
+| HR.skill | Generate a perfectly worded, bullshit-filled, heartbreaking rejection letter | [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) |
 | Anti-Distill.skill | Company wants you to write a Skill? Run this once, turn it in, keep the core knowledge to yourself | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
 
 ### ❤️ Relationships
@@ -43,12 +44,14 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Immortal.skill | Don't just steam buns to prove a point! While you're at it, distill the people around you too | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
 | Relic.skill | Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | RetailInvestor.skill | If I had another chance, I would definitely sell when I'm making money | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
+| Khazix.skill | Open-source AI Skills collection from digital life Khazix | [KKKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ### 💡 Business Mindset and Internet Celebrities
 
 | Character Role | Description | Repository |
 |------|------|------|
 | Buffett.skill | Buffett Thinking Operating System | [will2025btc/buffett-perspective](https://github.com/will2025btc/buffett-perspective) |
+| DuanYongping.skill | Buying stocks is buying companies; buying companies is buying their future discounted cash flows | [derrickgong87/duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) |
 | SteveJobs.skill | Product/Design/Strategy | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) |
 | ElonMusk.skill | Engineering/Cost/First Principles | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) |
 | Munger.skill | Investment/Multi-disciplinary Thinking/Inversion | [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) |
@@ -67,6 +70,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Character Role | Description | Repository |
 |------|------|------|
 | Fortune.skill | Collect birth information through interactive dialogue, calculate Four Pillars (Bazi), and analyze based on nine classic texts | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) |
+| DiamondSutra.skill | All forms are illusory. If you see all forms as not forms, you see the Tathagata | [dull-bird/diamond-sutra-skill](https://github.com/dull-bird/diamond-sutra-skill) |
 | YinYuan.skill | Cyber matchmaker, using traditional Chinese arts to calculate your marriage fate | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 | Master.skill | An AI learning companion based on the teaching style of ancient Chinese Buddhist masters | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
 
@@ -75,6 +79,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Character Role | Description | Repository |
 |------|------|------|
 | Reunion.skill | Let departed loved ones continue to accompany you in another form through AI | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
+| StarFan.skill | Your exclusive star-chasing companion, always online, always understanding, always capturing her essence | [yanghaoraneve/star-skill](https://github.com/yanghaoraneve/star-skill) |
 
 ### 🛠️ Tools
 
@@ -83,6 +88,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Taotie.skill | Feed excellent Skills to Taotie, and let your Skill evolve itself | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
 | Nuwa.skill | Nuwa helps you distill anyone's thinking style — make Jobs, Musk, Munger, and Feynman all work for you | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
 | X-Mentor.skill | Formatting is the simplest 10x improvement you can make to writing | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
+| Blogger.skill | Organize public social media posts into a conversational, analytical, style-rewritable Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
 
 ---
 

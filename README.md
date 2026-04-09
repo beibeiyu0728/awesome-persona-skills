@@ -22,6 +22,7 @@
 | 大学老师.skill | 老师不划重点，那就自己造一个会划重点的老师 | [CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
 | 师兄.skill | 把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
 | 反蒸馏.skill | 公司让你写 Skill？把自己变成随叫随到的AI？想都别想| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
+| HR.skill | 生成一封措辞完美、废话连篇、令人心碎的拒信 | [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) |
 
 ### ❤️ 人际关系
 
@@ -49,6 +50,7 @@
 | 人物角色 | 介绍 | 仓库 |
 |------|------|------|
 | 巴菲特.skill | 巴菲特思维操作系统 | [will2025btc/buffett-perspective](https://github.com/will2025btc/buffett-perspective) |
+| 段永平.skill | 买股票就是买公司，买公司就是买其未来现金流折现 | [derrickgong87/duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) |
 | 乔布斯.skill | 产品/设计/战略 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) |
 | 马斯克.skill | 工程/成本/第一性原理 | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) |
 | 芒格.skill | 投资/多元思维/逆向思考 | [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) |
@@ -61,6 +63,7 @@
 | 峰哥.skill | B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统 | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
+| 卡兹克.skill | 数字生命卡兹克开源的 AI Skills 合集 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ### 🙏 传统文化与哲学
 
@@ -69,11 +72,13 @@
 | 赛博算命.skill | 通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) |
 | 月老.skill | 赛博月老，用中华传统术数帮你算姻缘 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 | 佛教大师.skill | 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
+| 金刚经.skill | 凡所有相，皆是虚妄。若见诸相非相，即见如来。| [dull-bird/diamond-sutra-skill](https://github.com/dull-bird/diamond-sutra-skill) |
 
 ### 🌈 情感陪伴
 
 | 人物角色 | 介绍 | 仓库 |
 |------|------|------|
+| 内娱.skill | 你的专属追星搭子，永远在线，永远懂你，永远是她的样子。| [yanghaoraneve/star-skil](https://github.com/yanghaoraneve/star-skill) |
 | 重逢.skill | 用 AI 的方式，让逝去的亲人以另一种形式继续陪伴 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
 
 ### 🛠️ 工具类
@@ -83,6 +88,8 @@
 | 饕餮.skill | 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化 | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
 | 女娲.skill | 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
+| 博主.skill | 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
+
 
 ---
 
