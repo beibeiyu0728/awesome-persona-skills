@@ -54,11 +54,11 @@
 | 费曼.skill | 学习/教学/科学思维 | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) |
 | 纳瓦尔.skill | 财富/杠杆/人生哲学 | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) |
 | 塔勒布.skill | 风险/反脆弱/不确定性 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
-| 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
-| 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 | 特朗普.skill | 谈判/权力/传播/行为预判 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 产品/组织/全球化/人才 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 | 峰哥.skill | B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统 | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
+| 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
+| 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 
 ### 🙏 传统文化与哲学
 
