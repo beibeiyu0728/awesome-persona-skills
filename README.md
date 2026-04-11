@@ -16,23 +16,23 @@
 
 **📑 目录：** 
 
-[💼 职场与学术](#-职场与学术) 
+[💼 职场与学术](#职场与学术) 
 
-[❤️ 人际关系](#-人际关系) 
+[❤️ 人际关系](#人际关系) 
 
-[🌟 自我成长](#-自我成长)
+[🌟 自我成长](#自我成长)
 
-[💡 商业思维](#-商业思维) 
+[💡 商业思维](#商业思维) 
 
-[📱 网络名人](#-网络名人) 
+[📱 网络名人](#网络名人) 
 
-[🙏 传统文化与哲学](#-传统文化与哲学) 
+[🙏 传统文化与哲学](#传统文化与哲学) 
 
-[🌈 情感陪伴](#-情感陪伴) 
+[🌈 情感陪伴](#情感陪伴) 
 
-[🛠️ 工具类](#️-工具类)
+[🛠️ 工具类](#️工具类)
 
-### 💼 职场与学术
+### 职场与学术
 
 - [同事.skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill
 - [老板.skill](https://github.com/vogtsw/boss-skills) - 把老板的聊天记录、会议纪要、批注和项目材料蒸馏成 Skill
@@ -42,7 +42,7 @@
 - [反蒸馏.skill](https://github.com/leilei926524-tech/anti-distill) - 公司让你写 Skill？把自己变成随叫随到的AI？想都别想
 - [HR.skill](https://github.com/Schlaflied/hr-skill) - 生成一封措辞完美、废话连篇、令人心碎的拒信
 
-### ❤️ 人际关系
+### 人际关系
 
 - [暗恋对象.skill](https://github.com/xiaoheizi8/crush-skills) - 我会为了你一万次回到那个心动的瞬间
 - [初恋.skill](https://github.com/z969081067-commits/first-love-skill) - 后来这么多年，我又迎过了无数盛夏
@@ -52,7 +52,7 @@
 - [父母.skill](https://github.com/xiaoheizi8/parents-skills) - 每一次对话，都是穿越时空的陪伴
 - [兄弟.skill](https://github.com/realteamprinz/brother-skill) - 把冰冷的告别变成温暖的Skill——欢迎来到赛博兄弟永生
 
-### 🌟 自我成长
+### 自我成长
 
 - [自己.skill](https://github.com/notdog1998/yourself-skill) - 与其蒸馏别人，不如蒸馏自己
 - [数字人生.skill](https://github.com/wildbyteai/digital-life) - 你不是被数据定义的人。但你会被自己反复留下的痕迹，慢慢塑形
@@ -60,7 +60,7 @@
 - [Relic.skill](https://github.com/Ylsssq926/relic.skill) - 万物皆可 Relic — 不只蒸馏人，宠物、关系、地方、团队、时刻都能永生
 - [韭菜.skill](https://github.com/tmstack/retail-investors) - 如果再给我一次机会，我一定会在赚钱的时候卖掉
 
-### 💡 商业思维
+### 商业思维
 
 - [巴菲特.skill](https://github.com/will2025btc/buffett-perspective) - 巴菲特思维操作系统
 - [段永平.skill](https://github.com/derrickgong87/duan-yongping-skill) - 买股票就是买公司，买公司就是买其未来现金流折现
@@ -74,7 +74,7 @@
 - [特朗普.skill](https://github.com/alchaincyf/trump-skill) - 谈判/权力/传播/行为预判
 - [张一鸣.skill](https://github.com/alchaincyf/zhang-yiming-skill) - 产品/组织/全球化/人才
 
-### 📱 网络名人
+### 网络名人
 
 - [郭德纲.skill](https://github.com/ByteRax/guodegang-skills) - 江山父老能容我，不使人间造孽钱
 - [峰哥.skill](https://github.com/Walshyu/fengge-skill) - B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统
@@ -84,7 +84,7 @@
 - [凉兮 skills](https://github.com/1sh1ro/liangxi-skills) - 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达
 - [卡兹克.skill](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 
-### 🙏 传统文化与哲学
+### 传统文化与哲学
 
 - [赛博算命.skill](https://github.com/jinchenma94/bazi-skill) - 通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析
 - [月老.skill](https://github.com/Ming-H/yinyuan-skills) - 赛博月老，用中华传统术数帮你算姻缘
@@ -94,13 +94,13 @@
 - [新青年.Skill](https://github.com/SamadhiFire/xinqingnian-skill) - 新青年来中国是能解决问题，会解决问题的
 
 
-### 🌈 情感陪伴
+### 情感陪伴
 
 - [内娱.skill](https://github.com/yanghaoraneve/star-skill) - 你的专属追星搭子，永远在线，永远懂你，永远是她的样子
 - [重逢.skill](https://github.com/yangdongchen66-boop/reunion-skill) - 用 AI 的方式，让逝去的亲人以另一种形式继续陪伴
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 你是主人，多比是你的家养小精灵
 
-### 🛠️ 工具类
+### 工具类
 
 - [饕餮.skill](https://github.com/binggandata/bggg-skill-taotie) - 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化
 - [女娲.skill](https://github.com/alchaincyf/nuwa-skill) - 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工

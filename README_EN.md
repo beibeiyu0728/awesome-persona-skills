@@ -14,23 +14,23 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 **📑 Contents:** 
 
-[💼 Workplace & Academia](#-workplace--academia) 
+[💼 Workplace & Academia](#workplace--academia) 
 
-[❤️ Relationships](#-relationships) 
+[❤️ Relationships](#relationships) 
 
-[🌟 Self-Development](#-self-development) 
+[🌟 Self-Development](#self-development) 
 
-[💡 Business Mindset](#-business-mindset) 
+[💡 Business Mindset](#business-mindset) 
 
-[📱 Internet Celebrities](#-internet-celebrities) 
+[📱 Internet Celebrities](#internet-celebrities) 
 
-[🙏 Traditional Culture & Philosophy](#-traditional-culture--philosophy) 
+[🙏 Traditional Culture & Philosophy](#traditional-culture--philosophy) 
 
-[🌈 Emotional Companionship](#-emotional-companionship)
+[🌈 Emotional Companionship](#emotional-companionship)
 
-[🛠️ Tools](#️-tools)
+[🛠️ Tools](#️tools)
 
-### 💼 Workplace & Academia
+### Workplace & Academia
 
 - [Colleague.skill](https://github.com/titanwings/colleague-skill) - Turn cold departures into warm Skills
 - [Boss.skill](https://github.com/vogtsw/boss-skills) - Distill your boss's chat history, meeting notes, comments, and project materials into a Skill
@@ -40,7 +40,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [HR.skill](https://github.com/Schlaflied/hr-skill) - Generate a perfectly worded, bullshit-filled, heartbreaking rejection letter
 - [Anti-Distill.skill](https://github.com/leilei926524-tech/anti-distill) - Company wants you to write a Skill? Run this once, turn it in, keep the core knowledge to yourself
 
-### ❤️ Relationships
+### Relationships
 
 - [Crush.skill](https://github.com/xiaoheizi8/crush-skills) - I would return to that heartbeat moment for you ten thousand times
 - [First Love.skill](https://github.com/z969081067-commits/first-love-skill) - In all the years since, I've welcomed countless midsummers
@@ -50,7 +50,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Parents.skill](https://github.com/xiaoheizi8/parents-skills) - Every conversation is companionship across time and space
 - [Brother.skill](https://github.com/realteamprinz/brother-skill) - Turn cold goodbyes into warm Skills — welcome to cyber brotherhood immortality
 
-### 🌟 Self-Development
+### Self-Development
 
 - [Yourself.skill](https://github.com/notdog1998/yourself-skill) - Instead of distilling others, why not distill yourself
 - [DigitalLife.skill](https://github.com/wildbyteai/digital-life) - You are not defined by data. But you are slowly shaped by the traces you leave behind
@@ -58,7 +58,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Relic.skill](https://github.com/Ylsssq926/relic.skill) - Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments
 - [RetailInvestor.skill](https://github.com/tmstack/retail-investors) - If I had another chance, I would definitely sell when I'm making money
 
-### 💡 Business Mindset
+### Business Mindset
 
 - [Buffett.skill](https://github.com/will2025btc/buffett-perspective) - Buffett Thinking Operating System
 - [DuanYongping.skill](https://github.com/derrickgong87/duan-yongping-skill) - Buying stocks is buying companies; buying companies is buying their future discounted cash flows
@@ -72,7 +72,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Trump.skill](https://github.com/alchaincyf/trump-skill) - Negotiation/Power/Communication/Behavior Prediction
 - [ZhangYiming.skill](https://github.com/alchaincyf/zhang-yiming-skill) - Product/Organization/Globalization/Talent
 
-### 📱 Internet Celebrities
+### Internet Celebrities
 
 - [GuoDegang.skill](https://github.com/ByteRax/guodegang-skills) - If the world and my elders can tolerate me, I won't make ill-gotten money
 - [FengGe.skill](https://github.com/Walshyu/fengge-skill) - Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system
@@ -82,7 +82,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [TongJincheng.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight
 - [Khazix.skill](https://github.com/KKKKhazix/khazix-skills) - Open-source AI Skills collection from digital life Khazix
 
-### 🙏 Traditional Culture & Philosophy
+### Traditional Culture & Philosophy
 
 - [Fortune.skill](https://github.com/jinchenma94/bazi-skill) - Collect birth information through interactive dialogue, calculate Four Pillars (Bazi), and analyze based on nine classic texts
 - [DiamondSutra.skill](https://github.com/dull-bird/diamond-sutra-skill) - All forms are illusory. If you see all forms as not forms, you see the Tathagata
@@ -91,13 +91,13 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [MaoXuan.skill](https://github.com/leezythu/maoxuan-skill) - Let the Mao Zedong's Selected Works thinking framework help you analyze problems, formulate strategies, and see through to the essence
 - [NewYouth.skill](https://github.com/SamadhiFire/xinqingnian-skill) - New Youth comes to China to solve problems and knows how to solve them
 
-### 🌈 Emotional Companionship
+### Emotional Companionship
 
 - [Reunion.skill](https://github.com/yangdongchen66-boop/reunion-skill) - Let departed loved ones continue to accompany you in another form through AI
 - [StarFan.skill](https://github.com/yanghaoraneve/star-skill) - Your exclusive star-chasing companion, always online, always understanding, always capturing her essence
 - [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - You are the master, and Dobby is your house-elf
 
-### 🛠️ Tools
+### Tools
 
 - [Taotie.skill](https://github.com/binggandata/bggg-skill-taotie) - Feed excellent Skills to Taotie, and let your Skill evolve itself
 - [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill) - Nuwa helps you distill anyone's thinking style — make Jobs, Musk, Munger, and Feynman all work for you
