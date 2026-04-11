@@ -52,8 +52,9 @@
 | 初恋.skill | 后来这么多年，我又迎过了无数盛夏 | [z969081067-commits/first-love-skill](https://github.com/z969081067-commits/first-love-skill) |
 | 前任.skill | 我会为了你一万次回到那个夏天 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) |
 | 现任.skill | 既然决定在一起，就让我们把这个夏天变成永远 | [NatalieCao323/partner-skill](https://github.com/NatalieCao323/partner-skill) |
-| 父母.skill | 每一次对话，都是穿越时空的陪伴 | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
 | 她.skill | 所有的逻辑分叉，最终都会递归回她的名字 | [ceetity/her-skill](https://github.com/ceetity/her-skill) |
+| 父母.skill | 每一次对话，都是穿越时空的陪伴 | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
+| 兄弟.skill | 把冰冷的告别变成温暖的Skill——欢迎来到赛博兄弟永生！ | [realteamprinz/brother-skill](https://github.com/realteamprinz/brother-skill) |
 
 ### 🌟 自我成长
 
@@ -107,6 +108,7 @@
 |------|------|------|
 | 内娱.skill | 你的专属追星搭子，永远在线，永远懂你，永远是她的样子。| [yanghaoraneve/star-skil](https://github.com/yanghaoraneve/star-skill) |
 | 重逢.skill | 用 AI 的方式，让逝去的亲人以另一种形式继续陪伴 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
+| 多比.skill | 你是主人，多比是你的家养小精灵。| [LittleLittleCloud/Dobby](https://github.com/LittleLittleCloud/Dobby) |
 
 ### 🛠️ 工具类
 
@@ -117,6 +119,7 @@
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
 | 博主.skill | 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
 | 图鉴.skill | 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐 | [Aar0nPB/curator-skill](https://github.com/Aar0nPB/curator-skill) |
+
 
 
 ---
