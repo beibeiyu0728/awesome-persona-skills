@@ -86,6 +86,7 @@
 
 | 人物角色 | 介绍 | 仓库 |
 |------|------|------|
+| 郭德纲.skill | 江山父老能容我，不使人间造孽钱 | [ByteRax/guodegang-skills](https://github.com/ByteRax/guodegang-skills) |
 | 峰哥.skill | B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统 | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | 童锦程.skill | 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心。 | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 | 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
@@ -101,6 +102,10 @@
 | 月老.skill | 赛博月老，用中华传统术数帮你算姻缘 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 | 佛教大师.skill | 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
 | 金刚经.skill | 凡所有相，皆是虚妄。若见诸相非相，即见如来。| [dull-bird/diamond-sutra-skill](https://github.com/dull-bird/diamond-sutra-skill) |
+| 毛选.skill | 让毛选的思维框架帮你分析问题、制定策略、看透本质。| [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) |
+| 新青年.Skill | 新青年来中国是能解决问题，会解决问题的！
+| [SamadhiFire/xinqingnian-skill](https://github.com/SamadhiFire/xinqingnian-skill) |
+
 
 ### 🌈 情感陪伴
 
@@ -119,7 +124,7 @@
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
 | 博主.skill | 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
 | 图鉴.skill | 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐 | [Aar0nPB/curator-skill](https://github.com/Aar0nPB/curator-skill) |
-
+| SBTI.Skill | 一套把 SBTI 人格原型打包成 Agent Skill 的生成器。| [whu125/sbti-skill](https://github.com/whu125/sbti-skill) |
 
 
 ---

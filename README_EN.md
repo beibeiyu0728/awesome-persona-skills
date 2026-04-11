@@ -84,6 +84,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 | Character Role | Description | Repository |
 |------|------|------|
+| GuoDegang.skill | If the world and my elders can tolerate me, I won't make ill-gotten money | [ByteRax/guodegang-skills](https://github.com/ByteRax/guodegang-skills) |
 | FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
@@ -99,6 +100,8 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | DiamondSutra.skill | All forms are illusory. If you see all forms as not forms, you see the Tathagata | [dull-bird/diamond-sutra-skill](https://github.com/dull-bird/diamond-sutra-skill) |
 | YinYuan.skill | Cyber matchmaker, using traditional Chinese arts to calculate your marriage fate | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 | Master.skill | An AI learning companion based on the teaching style of ancient Chinese Buddhist masters | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
+| MaoXuan.skill | Let the Mao Zedong's Selected Works thinking framework help you analyze problems, formulate strategies, and see through to the essence | [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) |
+| NewYouth.skill | New Youth comes to China to solve problems and knows how to solve them | [SamadhiFire/xinqingnian-skill](https://github.com/SamadhiFire/xinqingnian-skill) |
 
 ### 🌈 Emotional Companionship
 
@@ -117,6 +120,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | X-Mentor.skill | Formatting is the simplest 10x improvement you can make to writing | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
 | Blogger.skill | Organize public social media posts into a conversational, analytical, style-rewritable Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
 | Curator.skill | Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent | [Aar0nPB/curator-skill](https://github.com/Aar0nPB/curator-skill) |
+| SBTI.skill | A generator that packages SBTI personality archetypes into Agent Skills | [whu125/sbti-skill](https://github.com/whu125/sbti-skill) |
 
 ---
 
